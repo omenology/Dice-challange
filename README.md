@@ -1,0 +1,2 @@
+# Dice-challange
+latihan saja
